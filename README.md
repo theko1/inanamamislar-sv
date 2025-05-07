@@ -42,7 +42,8 @@
 
 ### Kurallar 
 - Şimdi dünya 8000x8000
-- Şimdi mazlumun tepesine çökmeyin. 
+- Mazlumun tepesine çökmeyin.
+- Kendi seviyenizde oyuncularla kapışın. 
 - Offline kişilere, baselerine falan çökmeyin
 - Dünyayı rezil etmeyin (Koca koca lava castlelar vs.)
 - Mümkünse kişilerle veya gruplara kapışacaksanız bu kapışma anlaşmalı olsun ve sunucudaki diğer kişileri etkilemesin.
