@@ -1,15 +1,24 @@
 ## Çok beklenen Minecraft sunucusu - **İnanamamışlar**
-- Sunucu IP: **inanamamislar.servers.fun / 116.202.224.188:26088**
-- Sunucu dünyasının haritası: **116.202.224.188:25915**
+- Sunucu IP: **34.89.234.211:3131**
+- Sunucu dünyasının haritası: **daha kurulmadı**
 - Sunucu sürümü: **Java: 1.21.3**
-- Sunucu sohbet kanalı [Matrix - İnanamamışlar](https://matrix.to/#/!PPSOKRdFJhCfGxsSqk:matrix.org?via=matrix.org)
+
+
+### Kurallar 
+- Şimdi dünya 8000x8000
+- Birbirinizle savaşmadan önce anlaşın. Anlaşmasız savaş yok.
+- Mazlumun tepesine çökmeyin.
+- Kendi seviyenizde oyuncularla kapışın. 
+- Offline kişilere, baselerine falan çökmeyin
+- Dünyayı rezil etmeyin (Koca koca lava castlelar vs.)
+- Kendi işine bakmak, sakin sakin oynamak isteyen kişilere de karışmayın
+- Mega yapılar buildler yapmayın. Dünya 8000x8000 zaten.
+- İyi, ihtişamlı yapılar yapmaya çalışan kişilerin yapılarını bok etmeyin lütfen tşk.
+- Hile, xray falan da açmayın sikerler. 
+- Bokunu çıkarmayın işte takılın
 
 ### Notlar
-- Sunucu şuan sadece premium hesaplara açıktır. Oracle biraz ibişlik yaptı onları çözdüğüm de korsan heasplarda girebilecek.
-
 - Sunucuda whitelist vardır. Sunucuya girmek için nickinizi bana yazın sizi whiteliste ekleyeyim. (Arda Ekrem25)
-
-- Sunucu 3 GB Ramden hostlanıyor ve optimizasyon için pek test yapmadık. Okulda belli yerlerde internet çekmediğini de varsayarsak arada sıkıntı yaşayabilirsiniz. Sıkıntı yaşadığınızda bana yazın bi bakarız "kıps"
 
 ### MC Kurma ve Unlost FPS Arttırma
 
@@ -17,7 +26,7 @@
 
 ##### Launcher önerisi 
 
-**Gidin [Prism Launcher](prismlauncher.org) kullanın.** ~~başka bişi kullananı banlarım~~
+**Gidin [Prism Launcher](prismlauncher.org) ve |PolyMC](https://polymc.org/) kullanın.** ~~başka bişi kullananı banlarım~~
 
 #### Unlost FPS Arttırma 
 
@@ -26,9 +35,9 @@
     2. [Simply Optimized](https://modrinth.com/modpack/sop)
     3. [Sodium Plus](https://modrinth.com/modpack/sodiumplus)
 
-##### Mod Paketlerini Prism Launcher ile indirme
+##### Mod Paketlerini Prism Launcher/PolyMC ile indirme
 
-1. Hesabınızı Prism Launcherda açın
+1. Hesabınızı sağ üstten oluşturun.
 2. Sol üstten "Add Instance"
 3. Açılan sekmenin sol tarafında **Modrinth** seçin
 4. Fabulously Optimized mod paketini seçin.
@@ -37,20 +46,8 @@
 
 - **MC 1.21.3 ve yukarıdaki modpaketleri için JAVA 21 veya daha yüksek JAVA sürümlerini kurmalısınız**
 - Oyunu başlatırken Java ile alakalı bir hata alırsanız büyük ihtimalle Prism Launcherın başlattığı Minecraft instanceının kullanmaya çalıştığı Java sürümü yanlıştır.
-> Prism Launcherda Java sürümlerini yönetmek için: [YT -  How to manage Java in Prism Launcher / MultiMC](https://www.youtube.com/watch?v=JP1gQ-rnixM).
+> Prism Launcherda Java sürümlerini yönetmek için: [YT -  How to manage Java in Prism Launcher / MultiMC](https://www.youtube.com/watch?v=JP1gQ-rnixM). (PolyMC için de aynı)
 >> Bu videodan anlamadıysanız gidin Youtube da falan aratın o kadar da anlatamam
 
-### Kurallar 
-- Şimdi dünya 8000x8000
-- Mazlumun tepesine çökmeyin.
-- Kendi seviyenizde oyuncularla kapışın. 
-- Offline kişilere, baselerine falan çökmeyin
-- Dünyayı rezil etmeyin (Koca koca lava castlelar vs.)
-- Mümkünse kişilerle veya gruplara kapışacaksanız bu kapışma anlaşmalı olsun ve sunucudaki diğer kişileri etkilemesin.
-- Kendi işine bakmak, sakin sakin oynamak isteyen kişilere de karışmayın
-- Mega yapılar buildler yapmayın. Dünya 8000x8000 zaten.
-- İyi, ihtişamlı yapılar yapmaya çalışan kişilerin yapılarını bok etmeyin lütfen tşk.
-- Hile, xray falan da açmayın sikerler. 
-- Bokunu çıkarmayın işte takılın 
 
 
