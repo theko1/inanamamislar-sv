@@ -1,6 +1,6 @@
 ## Çok beklenen Minecraft sunucusu - **İnanamamışlar**
 - Sunucu IP: **34.89.234.211:3131**
-- Sunucu dünyasının haritası: **daha kurulmadı**
+- Sunucu dünyasının haritası: **http://34.89.234.211:8080/**
 - Sunucu sürümü: **Java: 1.21.3**
 
 
