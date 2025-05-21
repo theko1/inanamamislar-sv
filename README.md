@@ -44,6 +44,15 @@
 5. Sağ alttan "Version selected" kısmında **"6.4.0-beta.5 for 1.21.3 - [beta]" seçin"** 
 6. Sağ alttan **"OK"** tıklayıp indirmeye başlayın.
 
+
+#### Sesli Sohbet Kurma (Simple Voice Chat)
+1. Bir instance seçin -bir oyun sürümü- sağ tıklayın. "Edit" diyin
+2. Sol taraftan "Mods"
+3. Açılan sekmede sağ tarafta "Download Mods" tıklayın.
+4. "Simple Voice Chat" yazın
+5. Sağ alttan 1.21.3 sürümünü seçin
+6. Download diyin ta daa
+
 - **MC 1.21.3 ve yukarıdaki modpaketleri için JAVA 21 veya daha yüksek JAVA sürümlerini kurmalısınız**
 - Oyunu başlatırken Java ile alakalı bir hata alırsanız büyük ihtimalle Prism Launcherın başlattığı Minecraft instanceının kullanmaya çalıştığı Java sürümü yanlıştır.
 > Prism Launcherda Java sürümlerini yönetmek için: [YT -  How to manage Java in Prism Launcher / MultiMC](https://www.youtube.com/watch?v=JP1gQ-rnixM). (PolyMC için de aynı)
