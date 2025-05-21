@@ -24,7 +24,7 @@
 
 - Şimdi oyunu başlattığınız, sürüm seçtiğiniz, mod seçtiğiniz falan programa **Launcher** (başlatıcı) deniliyor.
 
-##### Launcher önerisi 
+#### Launcher önerisi 
 
 **Gidin [Prism Launcher](prismlauncher.org) ve |PolyMC](https://polymc.org/) kullanın.** ~~başka bişi kullananı banlarım~~
 
@@ -35,7 +35,7 @@
     2. [Simply Optimized](https://modrinth.com/modpack/sop)
     3. [Sodium Plus](https://modrinth.com/modpack/sodiumplus)
 
-##### Mod Paketlerini Prism Launcher/PolyMC ile indirme
+#### Mod Paketlerini Prism Launcher/PolyMC ile indirme
 
 1. Hesabınızı sağ üstten oluşturun.
 2. Sol üstten "Add Instance"
@@ -45,7 +45,7 @@
 6. Sağ alttan **"OK"** tıklayıp indirmeye başlayın.
 
 
-#### Sesli Sohbet Kurma (Simple Voice Chat)
+### Sesli Sohbet Kurma (Simple Voice Chat)
 1. Bir instance seçin -bir oyun sürümü- sağ tıklayın. "Edit" diyin
 2. Sol taraftan "Mods"
 3. Açılan sekmede sağ tarafta "Download Mods" tıklayın.
