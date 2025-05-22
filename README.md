@@ -3,6 +3,10 @@
 - Sunucu dünyasının haritası: **http://34.89.234.211:8080/**
 - Sunucu sürümü: **Java: 1.21.3**
 
+  
+### Notlar
+- Sunucuda whitelist vardır. Sunucuya girmek için nickinizi bana yazın sizi whiteliste ekleyeyim. (Arda Ekrem25)
+- Ölünce eşyalarınız bir mezarda saklanır. **Mezar 2 saat sonra silinir.**
 
 ### Kurallar 
 - Şimdi dünya 8000x8000
@@ -16,9 +20,6 @@
 - İyi, ihtişamlı yapılar yapmaya çalışan kişilerin yapılarını bok etmeyin lütfen tşk.
 - Hile, xray falan da açmayın sikerler. 
 - Bokunu çıkarmayın işte takılın
-
-### Notlar
-- Sunucuda whitelist vardır. Sunucuya girmek için nickinizi bana yazın sizi whiteliste ekleyeyim. (Arda Ekrem25)
 
 ### MC Kurma ve Unlost FPS Arttırma
 
@@ -45,7 +46,7 @@
 6. Sağ alttan **"OK"** tıklayıp indirmeye başlayın.
 
 
-### Sesli Sohbet Kurma (Simple Voice Chat)
+### Sesli Sohbet Kurma (Simple Voice Chat) - PolyMC/Prism Launcher vb. için
 1. Bir instance seçin -bir oyun sürümü- sağ tıklayın. "Edit" diyin
 2. Sol taraftan "Mods"
 3. Açılan sekmede sağ tarafta "Download Mods" tıklayın.
