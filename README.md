@@ -8,6 +8,7 @@
 - Sunucuda whitelist vardır. Sunucuya girmek için nickinizi bana yazın sizi whiteliste ekleyeyim. (Arda Ekrem25)
 - Ölünce eşyalarınız bir mezarda saklanır. **Mezar 2 saat sonra silinir.**
 - Image Frame plugini kullanımı (eşya çerçevelerine fotoğraf koyma): https://www.youtube.com/watch?v=N0PnFbWPD1A&t=63s
+- Sunucu haritasına işaret ekleme plugini: https://github.com/SentixDev/squaremarker
 - SimpleNicks (sunucudaki kullanıcı adınızı değiştirme): https://modrinth.com/plugin/simplenicks?version=1.21.3&loader=paper
 
 ### Kurallar 
