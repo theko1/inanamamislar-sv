@@ -40,7 +40,6 @@
     3. [Sodium Plus](https://modrinth.com/modpack/sodiumplus)
 
 #### Mod Paketlerini Prism Launcher/PolyMC ile indirme
-
 1. Hesabınızı sağ üstten oluşturun.
 2. Sol üstten "Add Instance"
 3. Açılan sekmenin sol tarafında **Modrinth** seçin
@@ -49,13 +48,23 @@
 6. Sağ alttan **"OK"** tıklayıp indirmeye başlayın.
 
 
-### Sesli Sohbet Kurma (Simple Voice Chat) - PolyMC/Prism Launcher vb. için
+### Sesli Sohbet Kurma (Simple Voice Chat)
+#### PolyMC/Prism Launcher vb. için
 1. Bir instance seçin -bir oyun sürümü- sağ tıklayın. "Edit" diyin
 2. Sol taraftan "Mods"
 3. Açılan sekmede sağ tarafta "Download Mods" tıklayın.
 4. "Simple Voice Chat" yazın
 5. Sağ alttan 1.21.3 sürümünü seçin
 6. Download diyin ta daa
+7. Oyuna girdiğinizde V tuşuna basıp kurulumu tamamlayın
+
+#### Launcher farketmeksizin - Optimizasyon modpaketi kurulduysa
+1. [Bu bağlantıdan](https://cdn.modrinth.com/data/9eGKb6K1/versions/yTKiwird/voicechat-fabric-1.21.3-2.5.30.jar) Simple Voice Chat mod dosyasını indirin. 
+2. %appdata% -> .minecraft -> mods klasörüne indirdiğiniz modun .jar dosyasını atın
+3. Oyuna girdiğinizde V tuşuna basıp kurulumu tamamlayın
+
+#### Tamamen Vanilla oynayan - ne Fabric ne Forge kurmuş olanlar için
+[How to install the SIMPLE VOICE CHAT MOD on Minecraft - ANY VERSION](https://www.youtube.com/watch?v=3BWzFnXLTNE)
 
 - **MC 1.21.3 ve yukarıdaki modpaketleri için JAVA 21 veya daha yüksek JAVA sürümlerini kurmalısınız**
 - Oyunu başlatırken Java ile alakalı bir hata alırsanız büyük ihtimalle Prism Launcherın başlattığı Minecraft instanceının kullanmaya çalıştığı Java sürümü yanlıştır.
