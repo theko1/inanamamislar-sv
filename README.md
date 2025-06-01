@@ -31,6 +31,7 @@
 #### Launcher önerisi 
 
 **Gidin [Prism Launcher](prismlauncher.org) ve |PolyMC](https://polymc.org/) kullanın.** ~~başka bişi kullananı banlarım~~
+**Prism Launcher / PolyMC korsan hesap ekleme**: https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass
 
 #### Unlost FPS Arttırma 
 
