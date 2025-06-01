@@ -63,7 +63,7 @@
 2. %appdata% -> .minecraft -> mods klasörüne indirdiğiniz modun .jar dosyasını atın
 3. Oyuna girdiğinizde V tuşuna basıp kurulumu tamamlayın
 
-#### Tamamen Vanilla oynayan - ne Fabric ne Forge kurmuş olanlar için
+#### Tamamen Vanilla oynayan - ne Fabric ne Forge kurmuş olanlar için mesela TLauncher
 [How to install the SIMPLE VOICE CHAT MOD on Minecraft - ANY VERSION](https://www.youtube.com/watch?v=3BWzFnXLTNE)
 
 - **MC 1.21.3 ve yukarıdaki modpaketleri için JAVA 21 veya daha yüksek JAVA sürümlerini kurmalısınız**
